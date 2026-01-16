@@ -1,4 +1,4 @@
-﻿.PHONY : build clean format install-python test-cpp test-onnx
+.PHONY: build clean test-cpp
 
 TYPE ?= Release
 TEST ?= ON
